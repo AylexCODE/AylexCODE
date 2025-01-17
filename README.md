@@ -1,5 +1,6 @@
 ## Hi there, I'm Alexander
 > Programming for fun.
+
 <!--
 **AylexCODE/AylexCODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,19 +17,19 @@ Here are some ideas to get you started:
 -->
 
 ### Tech Stack:
-![HTML5](Assets/Images/Logo/HTML5.svg)
-![CSS3](Assets/Images/Logo/CSS3.svg)
-![Javascript](Assets/Images/Logo/Javascript.svg)
-![PHP](Assets/Images/Logo/PHP.svg)
-<!-- ![Lua](Assets/Images/Logo/Lua.svg) -->
-![C](Assets/Images/Logo/C.svg)
-![Java](Assets/Images/Logo/Java.svg)
-<!-- ![NodeJS](Assets/Images/Logo/NodeJS.svg) -->
-<!-- ![Expo](Assets/Images/Logo/Expo.svg) -->
-<!-- ![Render](Assets/Images/Logo/Render.svg) -->
-<!-- ![React](Assets/Images/Logo/React.svg) -->
-<!-- ![Firebase](Assets/Images/Logo/Firebase.svg) -->
-![MySQL](Assets/Images/Logo/MySQL.svg)
+![HTML5](assets/images/logo/HTML5.svg)
+![CSS3](assets/images/logo/CSS3.svg)
+![Javascript](assets/images/logo/Javascript.svg)
+![PHP](assets/images/logo/PHP.svg)
+<!-- ![Lua](assets/images/logo/Lua.svg) -->
+![C](assets/images/logo/C.svg)
+![Java](assets/images/logo/Java.svg)
+<!-- ![NodeJS](assets/images/logo/NodeJS.svg) -->
+<!-- ![Expo](assets/images/logo/Expo.svg) -->
+<!-- ![Render](assets/images/logo/Render.svg) -->
+<!-- ![React](assets/images/logo/React.svg) -->
+<!-- ![Firebase](assets/images/logo/Firebase.svg) -->
+![MySQL](assets/images/logo/MySQL.svg)
 
 ### Github Stats
 > No data yet.
