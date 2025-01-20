@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 
 ### Github Stats
 > No data yet.
+
+### Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=AylexCODE&style=flat-square)
