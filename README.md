@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![HTML5](assets/images/logo/HTML5.svg)
 ![CSS3](assets/images/logo/CSS3.svg)
 ![Javascript](assets/images/logo/Javascript.svg)
+![React](assets/images/logo/React.svg)
 ![PHP](assets/images/logo/PHP.svg)
 <!-- ![Lua](assets/images/logo/Lua.svg) -->
 ![C](assets/images/logo/C.svg)
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 <!-- ![NodeJS](assets/images/logo/NodeJS.svg) -->
 <!-- ![Expo](assets/images/logo/Expo.svg) -->
 <!-- ![Render](assets/images/logo/Render.svg) -->
-<!-- ![React](assets/images/logo/React.svg) -->
 <!-- ![Firebase](assets/images/logo/Firebase.svg) -->
 ![MySQL](assets/images/logo/MySQL.svg)
 
