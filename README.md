@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <!-- ![Lua](assets/images/logo/Lua.svg) -->
 ![C](assets/images/logo/C.svg)
 ![Java](assets/images/logo/Java.svg)
-<!-- ![NodeJS](assets/images/logo/NodeJS.svg) -->
+![NodeJS](assets/images/logo/NodeJS.svg)
 <!-- ![Expo](assets/images/logo/Expo.svg) -->
 <!-- ![Render](assets/images/logo/Render.svg) -->
-<!-- ![Firebase](assets/images/logo/Firebase.svg) -->
+![Firebase](assets/images/logo/Firebase.svg)
 ![MySQL](assets/images/logo/MySQL.svg)
 
 ### Github Stats
