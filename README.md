@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 
 ### Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=AylexCODE&style=flat-square)
+
+> I said I love programming, I never said Im good at it.
