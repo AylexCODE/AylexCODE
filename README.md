@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 > I said I love programming, I never said Im good at it.
 
-[Visit Website](https://bit.ly/AylexCODE)
+[Visit Website](https://aylexcode.github.io/Aylex/)
